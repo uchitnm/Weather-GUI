@@ -1,5 +1,5 @@
 ################## ~Basic Weather APP~ ################## 
-#                Programed by: Uchit NM                 #
+#                Programed by: Uchit N M                #
 #                  Mentor: Sumanth L                    #
 ######################################################### 
 
